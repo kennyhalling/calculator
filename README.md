@@ -1,30 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is an Erlang program designed to do basic arithmetic like addition and subtraction, as well some more complex operations like log10 and natural log. I also programed this calculator to keep track of past calculations in a "history" list. All of these operations and functionalities are stored in a single process loop that recursively calls inself with updated history each time an operation is called.
 
-{Provide a description for the software that you wrote to demonstrate the Erlang language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+I wrote this program to expand my abilities with Erlang, a languange I have very little experience in. I specifically wanted to get better at recursion and in understanding what a process in Erlang is.
 
 [Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=aB5AbQlCHsI&ab_channel=KennethHalling))
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+To develop this program I used VS Code to write the code, as well as WSL on Windows to actually call functions from the program I was writing.
 
-{Describe the programming language that you used and any libraries.}
+I wrote this program in the Erlang language, using the rebar3 build tool to compile and call functions in the terminal.
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Erlang Wikipedia]([http://url.link.goes.here](https://en.wikipedia.org/wiki/Erlang_(programming_language)))
+* [Erlang Documentation]([http://url.link.goes.here](https://www.erlang.org/faq/introduction.html))
 
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* In the future, I want to build a chaining feature that allows a user to call a function, take that result, and immediately put it into a new function.
+* I want to make interacting with the program a little easier, potentially through a GUI, or just by simplfying what a user needs to enter into the terminal.
+* I want to add some premade equations that a user can call such as Pythagorean's Theorem and the Quadractic Formula.
