@@ -14,8 +14,8 @@ I wrote this program in the Erlang language, using the rebar3 build tool to comp
 
 # Useful Websites
 
-* [Erlang Wikipedia]
-* [Erlang Documentation]([http://url.link.goes.here](https://www.erlang.org/faq/introduction.html))
+* [Erlang Wikipedia](https://en.wikipedia.org/wiki/Erlang_(programming_language))
+* [Erlang Documentation](http://url.link.goes.here](https://www.erlang.org/faq/introduction.html)
 
 # Future Work
 
