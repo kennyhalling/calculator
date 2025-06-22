@@ -4,7 +4,7 @@ This is an Erlang program designed to do basic arithmetic like addition and subt
 
 I wrote this program to expand my abilities with Erlang, a languange I have very little experience in. I specifically wanted to get better at recursion and in understanding what a process in Erlang is.
 
-[Software Demo Video]([http://youtube.link.goes.here](https://www.youtube.com/watch?v=aB5AbQlCHsI&ab_channel=KennethHalling))
+[Software Demo Video](https://www.youtube.com/watch?v=aB5AbQlCHsI&ab_channel=KennethHalling)
 
 # Development Environment
 
@@ -14,8 +14,7 @@ I wrote this program in the Erlang language, using the rebar3 build tool to comp
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Erlang Wikipedia]([http://url.link.goes.here](https://en.wikipedia.org/wiki/Erlang_(programming_language)))
+* [Erlang Wikipedia]
 * [Erlang Documentation]([http://url.link.goes.here](https://www.erlang.org/faq/introduction.html))
 
 # Future Work
